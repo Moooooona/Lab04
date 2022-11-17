@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="note_text">Notes</string>
+    <string name="add_note" translatable="false">Add Note</string>
+    <string name="save_and_close">Save and Close</string>
+    <string name="note_text" translatable="false">Note text</string>
+    <string name="msg_last_saved_note">Last Saved note</string>
+    <string name="remove_note">Remove note</string>
+    <string name="update_note">Update</string>
+    <string name="sec_add_note">Secondary menu item</string>
+</resources>
